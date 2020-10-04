@@ -16,3 +16,5 @@ supports Indicatif and Conditionnel.
     Requirements: This requires verbecc package (`pip install verbecc`)
     <br/><br/>Usage: <br/>`python frenchConjugation.py -w aller --conditionnel`
            <br/>`python frenchConjugation.py -w aller --indicatif --secondary-tense=présent`
+
+[TODO] Need to add functionality to only be able to use `--secondary-tense`
